@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+h1 {
+  color: green;
+  text-indent: 20px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+p {
+  text-align: justify;
+  letter-spacing: 1px;
+  line-height: 20px;
+  direction: rlt;
+  word-spacing: 5px;
+  color: #996622;
+}
